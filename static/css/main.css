@@ -1,0 +1,7 @@
+body{
+    background:white;
+    font-family: 'Red Hat Display', sans-serif !important;
+}
+li {
+ display: inline-block;
+}
